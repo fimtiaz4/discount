@@ -13,7 +13,7 @@ const book2 = {
 const book3 = {
     name: "Book22",
     writer: "writer2",
-    price: 540,
+    price: 1275,
     rating: 4.5
 }
 
